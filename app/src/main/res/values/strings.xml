@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Food Recipe App</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+    <string name="my_recipe">My Recipe</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="email">Email</string>
+    <string name="title">Title</string>
+    <string name="serving">serving</string>
+    <string name="difficulty">difficulty</string>
+    <string name="description">Description</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="step">Step</string>
+    <string name="logout">Logout</string>
+    <string name="change">Change</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="empty">Field can not empty</string>
+    <string name="udpdated">data telah di update</string>
+    <string name="added">item telah di tambahkan</string>
+    <string name="empty_rv">Anda belum menambahkan Resep</string>
+    <string name="delete">delete</string>
+    <string name="yes">Ya</string>
+    <string name="deleted">deleted</string>
+    <string name="cancel">cancel</string>
+    <string name="message_cancel">Batalkan Perubahan?</string>
+    <string name="message_delete">Hapus data?</string>
+    <string name="no">tidak</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
