@@ -11,7 +11,7 @@ import com.example.myfoodrecipeapp.preferences.UserPreference
 import com.example.myfoodrecipeapp.repository.RecipeRepository
 import kotlinx.coroutines.launch
 
-class MainViewModel(private val pref: UserPreference, private val application: Application) :
+class MainViewModel(private val pref: UserPreference, application: Application) :
     ViewModel() {
     private val mRecipeRepository: RecipeRepository = RecipeRepository(application)
     fun getUser(): LiveData<User> {
